@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">My Application</string>
-    <string name="add_person"> Add Person</string>
-    <string name="live_feed"> Live Feed</string>
-    <string name="save">Save</string>
-    <string name="imageName">Name</string>
-    <string name="add_another">Add Another</string>
-    <string name="person_list">Person List</string>
-</resources>
